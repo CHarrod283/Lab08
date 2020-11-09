@@ -1,0 +1,27 @@
+p
+{
+    background-color: #03030e;
+    color: #7058bc;
+    font-size: 32pt;
+}
+
+a
+{
+    color: blue;
+    background-color: #03030e;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22pt;
+}
+
+a:hover
+{
+    color: lightblue;
+}
+
+body
+{
+    background-image: url(https://media.giphy.com/media/aRZ4vTsHnyW6A/giphy.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
